@@ -1,0 +1,7 @@
+backend/acceptance.suite.yml
+backend/codeception.yml
+common/_bootstrap.php
+config/config.php
+frontend/acceptance.suite.yml
+frontend/codeception.yml
+

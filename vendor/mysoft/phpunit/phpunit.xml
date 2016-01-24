@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<phpunit bootstrap="bootstrap.php">
+    <testsuites>
+        <testsuite name="demo1">
+            <file>./dals/UserServicesTest.php</file>
+        </testsuite>
+        <testsuite name="demo2">
+            <directory>./srvs/</directory>
+        </testsuite>
+    </testsuites>
+</phpunit>
